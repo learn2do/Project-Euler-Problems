@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4339405-a1c1-409b-b80c-ee7d18d74e44" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Project-Euler-Problems.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/100/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/101/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/102/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/103/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/104/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/105/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/106/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/107/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/108/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/109/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/110/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/111/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/112/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/113/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/114/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/115/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/116/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/117/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/118/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/119/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/120/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/121/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/122/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/123/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/124/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/125/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/126/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/127/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/128/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/129/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/130/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/131/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/132/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/133/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/134/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/135/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/136/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/137/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/138/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/139/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/140/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/141/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/142/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/143/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/144/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/145/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/146/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/148/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/149/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/150/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/151/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/152/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/153/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/154/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/155/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/156/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/157/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/158/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/159/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/160/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/161/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/162/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/163/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/164/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/165/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/166/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/167/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/168/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/169/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/170/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/171/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/172/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/173/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/174/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/175/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/176/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/177/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/178/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/179/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/180/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/181/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/182/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/183/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/184/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/185/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/186/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/187/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/188/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/189/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/190/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/191/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/192/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/193/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/194/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/195/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/196/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/197/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/198/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/199/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/19/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/200/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/201/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/202/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/203/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/204/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/205/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/206/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/207/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/208/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/209/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/210/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/211/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/212/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/213/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/214/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/215/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/216/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/217/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/218/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/219/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/21/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/220/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/221/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/222/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/223/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/224/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/225/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/226/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/227/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/228/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/229/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/230/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/231/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/232/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/233/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/234/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/235/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/236/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/237/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/238/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/239/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/23/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/240/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/241/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/242/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/243/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/244/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/245/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/246/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/247/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/248/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/249/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/24/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/250/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/251/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/252/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/253/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/254/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/255/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/256/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/257/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/258/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/259/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/25/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/260/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/261/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/262/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/263/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/264/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/265/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/266/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/267/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/268/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/269/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/26/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/270/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/271/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/272/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/273/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/274/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/275/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/276/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/277/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/278/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/279/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/27/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/280/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/281/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/282/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/283/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/284/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/285/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/286/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/287/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/288/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/289/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/28/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/290/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/291/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/292/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/293/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/294/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/295/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/296/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/297/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/298/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/299/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/29/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/300/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/301/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/302/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/303/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/304/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/305/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/306/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/307/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/308/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/309/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/30/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/310/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/311/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/312/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/313/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/314/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/315/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/316/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/317/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/318/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/319/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/31/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/320/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/321/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/322/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/323/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/324/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/325/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/326/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/327/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/328/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/329/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/32/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/330/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/331/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/332/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/333/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/334/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/335/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/336/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/337/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/338/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/339/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/33/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/340/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/341/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/342/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/343/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/344/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/345/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/346/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/347/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/348/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/349/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/34/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/350/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/351/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/352/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/353/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/354/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/355/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/356/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/357/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/358/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/359/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/35/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/360/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/361/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/362/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/363/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/364/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/365/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/366/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/367/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/368/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/369/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/36/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/370/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/371/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/372/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/373/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/374/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/375/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/376/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/377/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/378/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/379/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/37/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/380/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/381/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/382/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/383/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/384/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/38/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/39/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/40/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/41/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/42/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/43/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/44/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/45/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/46/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/47/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/48/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/49/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/50/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/51/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/52/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/53/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/54/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/55/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/56/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/57/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/58/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/59/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/60/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/61/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/62/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/63/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/64/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/65/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/66/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/67/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/68/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/69/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/70/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/71/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/72/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/73/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/74/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/75/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/76/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/77/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/78/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/79/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/80/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/81/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/82/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/83/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/84/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/85/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/86/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/87/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/88/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/89/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/90/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/91/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/92/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/93/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/94/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/95/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/96/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/97/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/98/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/99/problem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9/problem" />
+    </list>
+    <ignored path="Project-Euler-Problems.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Project-Euler-Problems" />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project-Euler-Problems" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project-Euler-Problems" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project-Euler-Problems" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project-Euler-Problems" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project-Euler-Problems" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <PyConsoleSettings />
+    </option>
+    <option name="myDjangoConsoleState">
+      <PyConsoleSettings />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <module name="Project-Euler-Problems" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <configuration useDefault="false">C:\Users\Nathan\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1337135310557</created>
+      <updated>1337135310557</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="ENABLE_BACKGROUND_PROCESSES" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="CREATE_PATCH_EXPAND_DETAILS_DEFAULT" value="true" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+</project>
+
